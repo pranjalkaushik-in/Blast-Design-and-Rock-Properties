@@ -107,3 +107,20 @@ Mine & Rock Type Analysis
 Engineering Interpretation
           ↓
 Power BI Dashboard
+
+
+```
+
+## 📊 Power BI Dashboard
+
+<img width="1407" height="792" alt="Screenshot 2026-09-22 001802" src="https://github.com/user-attachments/assets/e2bae753-2268-4760-ab00-ae32605cba9e" />
+
+
+<img width="1411" height="792" alt="Screenshot 2026-09-22 001826" src="https://github.com/user-attachments/assets/b54dad0a-966c-4871-9ec4-becb0b8393ed" />
+
+
+<img width="1407" height="792" alt="Screenshot 2026-09-22 001844" src="https://github.com/user-attachments/assets/2a70afe1-5c2e-47ee-809f-e55b093c497c" />
+
+
+<img width="1403" height="791" alt="Screenshot 2026-09-22 001915" src="https://github.com/user-attachments/assets/73f079e7-1bfd-4735-9ed7-401a2a67f722" />
+
